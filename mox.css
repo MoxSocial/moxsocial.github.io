@@ -1,0 +1,22 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 800px;
+    box-sizing: border-box;
+    margin: auto;
+    padding: 2em;
+    background-color: #101F2F;
+    color: #FF9900;
+    line-height: 1.5em;
+}
+
+a{
+    color: #4D99BA;
+}
+
+a:visited{
+    color: #992C2D;
+}
+
+img{
+    max-width: 100%;
+}
